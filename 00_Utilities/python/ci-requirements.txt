@@ -35,3 +35,4 @@ tomli==2.0.1
     # via mypy
 typing-extensions==4.1.1
     # via mypy
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
